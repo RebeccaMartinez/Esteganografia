@@ -13,6 +13,7 @@ Canal1 Frame1,Canal2 Frame1, Canal1 Frame2, Canale 2 Frame2, Canal1 Frame3 ...
 Si el audio es mono (1 canal) se modificarán por orden los frames de ese canal: Canal1 Frame1, Canal1 Frame2 ....
 
 Para ocultar el mensaje en las canciones, se procede de la siguiente manera:
+
 1. Se obtendrá el mensaje a ocultar (un String)
 2. Dicho mensaje se convertirá a binario (Siguiendo el formato ASCII para la conversión) y se coje los bits 
 uno por uno (de izq a der) 
