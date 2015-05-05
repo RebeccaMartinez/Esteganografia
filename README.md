@@ -22,6 +22,7 @@ uno por uno (de izq a der)
 mensaje esté oculto. El resto de los frames de la canción se mantendrán iguales.
 
 Para recuperar el mensaje oculto se procede de la siguiente manera:
+
 1. Se obtendrá de cada frame de la canción el último bit
 2. Se concatenarán todos estos bits obtenidos
 3. Se construirá el mensaje oculto (un String en formato ASCII)
